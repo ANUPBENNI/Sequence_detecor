@@ -1,1 +1,2 @@
-# Sequence_detecor
+# moore example of Final state machine
+modules:
